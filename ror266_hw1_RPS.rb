@@ -27,7 +27,7 @@ loop do
 	end while (restart != "N" && restart != "Y")
 
 	if (restart == "N")
-			puts "Good Bye! Exit the Game"
-			break
+		puts "Good Bye! Exit the Game"
+		break
 	end
 end 
